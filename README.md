@@ -11,3 +11,5 @@
 4. git pull origin main 으로 원격 리포지토리와 로컬 리포지토리 병합
 
 5. git push origin main으로 깃 푸쉬
+
+git reset HEAD~2 : 2개의 커밋 이전으로 돌리는 법
