@@ -8,4 +8,6 @@
 
 3. git commit -m "내용"
 
-4. git push origin main // git pull origin main
+4. git pull origin main 으로 원격 리포지토리와 로컬 리포지토리 병합
+
+5. git push origin main으로 깃 푸쉬
