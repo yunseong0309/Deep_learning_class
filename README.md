@@ -8,4 +8,4 @@
 
 3. git commit -m "내용"
 
-4. git push origin main
+4. git push origin main // git pull origin main
